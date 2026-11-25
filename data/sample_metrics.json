@@ -1,0 +1,19 @@
+{
+  "note": "Illustrative source-backed seed facts for quick inspection; live agent extracts metrics from downloaded documents. Values are consolidated unless noted.",
+  "Q1 FY27": {
+    "revenue_inr_crore": 72275,
+    "revenue_growth_yoy_pct": 13.9,
+    "operating_margin_pct": 24.0,
+    "net_margin_pct": 19.2,
+    "tcv_usd_billion": 9.5,
+    "annualized_ai_revenue_usd_billion": 2.6
+  },
+  "Q2 FY27": {
+    "revenue_inr_crore": 73188,
+    "revenue_growth_yoy_pct": 11.2,
+    "operating_margin_pct": 24.0,
+    "net_profit_inr_crore": 13884,
+    "tcv_usd_billion": 9.6,
+    "annualized_ai_revenue_usd_billion": 3.1
+  }
+}
